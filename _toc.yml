@@ -145,5 +145,16 @@ entries:
           - glob: docs/products/redis/howto/*
 
 
+  # -------- TUTORIALS ON DIFFERENT TOPICS -----
+  - file: docs/tutorials/index-table
+    title: Tutorials (Table)
+
+  - file: docs/tutorials/index-list
+    title: Tutorials (List)
+
+  - file: docs/tutorials/index-images
+    title: Tutorials (with images)
+
+
   # -------- AUXILIARY
   - file: docs/community
