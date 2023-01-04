@@ -23,6 +23,34 @@ Your new ticket is sent to our support team for review and you also receive an c
 
 You can also track the status of your tickets and review them from the project support center.
 
+Support Ticket Details
+----------------------
+Support tickets should be detailed with as much troubleshooting information as possible. Please include as much of the following information as possible.::
+
+  Scope of Impact
+  - Affected Projects:
+  - Affected Service Names: [If applicable]
+  - Affected Services: [Kafka, Postgres, Redis, Aiven Console, etc.]
+  - Affected Clouds/Regions: [AWS, google-us-east1, etc.]
+  - Affected Functionality: [networking, deployments, metrics, etc]
+  
+  Severity
+  - Clients can connect: [Yes/No/Partial Failure]
+  - Service is responsive: [Yes/No/Partial Failure]
+  
+  Additional Details
+  
+  - When did the symptoms occur?
+  - What were you doing when the symptoms occured?
+  - What is expected behavior?
+  - What is the actual behavior?
+  - What languages/frameworks/versions are your using?
+  - Can you share client side error messages?
+  - Is there a history of this issue/behavior?
+  - Can you reproduce the behavior? [Yes/No] 
+    If Yes please describe the steps to reproduce it.
+
+
 Add followers to an open ticket
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
